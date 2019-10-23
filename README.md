@@ -9,7 +9,6 @@ e também habilitar serviços de autenticação por email, Database, Messaging C
 
 ----------------------------------- English Version -----------------------------
 
-# ChatApp
 It's a live chat app with Firebase
 
 To use it you need to create a project in firebase, add the google-services.json file inside the App root folder,
