@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="register">Registro</string>
+    <string name="register_error">Você já está registrado com esse e-mail ou a senha está incorreta</string>
+    <string name="fields_empty">Todos os campos são requeridos</string>
+    <string name="auth_failed">Falha de autenticação</string>
+    <string name="hint_textSend">Escreva uma mensagem</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="reset_btn">Redefinir</string>
+    <string name="reset_password_message">Clicando em REDEFINIR, você receberá um email para criar uma nova senha</string>
+    <string name="verifyEmail_message">Por favor verifique seu email!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
